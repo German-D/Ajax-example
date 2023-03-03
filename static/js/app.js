@@ -1,6 +1,6 @@
-const pokemonApi = 'https://pokemonbattle.me:5000/pokemons'
+const pokemonApi = 'https://pokemonbattle.me:9104/pokemons'
 const baseURI = 'https://pokemonbattle.me'
-// const trainer_token = 'c0a61a62fd01e6ad20fabda626749e4c'
+// const trainer_token = ''
 
 // Выберём заранее все необходимые элементы
 // У нас две формы - одна для создания покемона, другая - для получения/удаления покемона
